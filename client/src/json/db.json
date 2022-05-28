@@ -1,0 +1,36 @@
+{
+    "productos": [{
+        "id": "1",
+        "name": "Tomate",
+        "img": "https://static4.depositphotos.com/1017505/320/i/600/depositphotos_3201839-stock-photo-three-tomatoes.jpg",
+        "categoria": "Verduras",
+        "almacen": "Las Sierras",
+        "precio": "100"
+
+    },
+    {
+        "id": "2",
+        "name": "Bananas",
+        "img": "http://camabana.com/img/header/bananas.jpg",
+        "categoria": "Frutas",
+        "almacen": "Las Sierras",
+        "precio": "100"
+
+    }
+    
+],
+    "comercios": [
+    {
+        "id": "1",
+        "name": "Las Sierras",
+        "img": "https://laverdadonline.com/wp-content/uploads/2020/12/almacen.jpg",
+        "lugar": "Tucuman-YerbaBuena"
+    },
+    {
+        "id": "2",
+        "name": "Los Rios",
+        "img": "https://laverdadonline.com/wp-content/uploads/2020/12/almacen.jpg",
+        "lugar": "Tucuman-YerbaBuena"
+    }
+]
+}

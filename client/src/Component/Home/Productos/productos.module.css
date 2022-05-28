@@ -1,0 +1,11 @@
+.filt{
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.actives{
+    color: orange;
+   
+}

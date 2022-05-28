@@ -1,0 +1,21 @@
+.con{
+    width: 95%;
+    height: 90%;
+    flex-direction: row;
+    align-items: center;
+}
+
+.con1, .con12{
+    width: 50%;
+    flex-direction: row;
+
+}
+
+.con12{
+    justify-content: space-between;
+}
+.imgdiv img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
